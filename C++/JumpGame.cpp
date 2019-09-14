@@ -21,3 +21,4 @@ public:
 		return false; //否则返回假
 	}
 };
+
