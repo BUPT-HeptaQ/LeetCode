@@ -30,3 +30,4 @@ public:
 private:
 	std::queue<int> _data; //_data数据队列存储元素的顺序就是栈储存元素的顺序
 };
+
