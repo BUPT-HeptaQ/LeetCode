@@ -30,3 +30,4 @@ public:
 private:
 	std::stack<int> _data;
 };
+
