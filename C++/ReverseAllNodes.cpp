@@ -4,7 +4,7 @@ struct ListNode{
 	ListNode(int *x) :val(x), next(NULL) {}
 };
 
-// 1-a 逆置链表中的所有节点
+// 逆置链表中的所有节点
 class Solution{
 public:
 	ListNode* reverseList(ListNode* head) {
