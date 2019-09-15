@@ -76,3 +76,4 @@ int main() {
 	printf("lowestCommonAncestor = %d\n", result->val);
 	return 0;
 }
+
