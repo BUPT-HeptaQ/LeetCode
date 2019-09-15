@@ -31,3 +31,4 @@ public:
 		return shoot_num;
 	}
 };
+
