@@ -20,3 +20,4 @@ public:
 		return max_length + flag; //最终结果是偶数部分的最大长度+中心点字符
 	}
 };
+
