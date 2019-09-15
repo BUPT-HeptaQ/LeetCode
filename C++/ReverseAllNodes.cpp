@@ -19,3 +19,4 @@ public:
 		return new_head; //返回新链表头节点
 	}
 };
+
