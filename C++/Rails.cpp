@@ -17,3 +17,4 @@ bool check_is_vaild_order(std::queue<int> &order) { //检查队列（储存在�
 	}
 	return true;
 }
+
