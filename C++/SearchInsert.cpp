@@ -26,6 +26,7 @@ public:
 		return index;
 	}
 };
+
 int main() {
 	int test[] = { 1,3,5,6 };
 	std::vector<int> nums;
@@ -38,3 +39,4 @@ int main() {
 	}
 	return 0;
 }
+
