@@ -37,6 +37,7 @@ public:
 		return ture;
 	}
 };
+
 int main() {
 	std::string pattern = "abba";
 	std::string str = "dog cat cat dog";
@@ -44,3 +45,4 @@ int main() {
 	printf("%d\n", solve.wordPattern(pattern, str));
 	return 0;
 }
+
