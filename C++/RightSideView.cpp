@@ -27,6 +27,7 @@ public:
 		return view;
 	}
 };
+
 int main() {
 	TreeNode a(1);
 	TreeNode b(2);
@@ -46,3 +47,4 @@ int main() {
 	}
 	return 0;
 }
+
