@@ -78,3 +78,4 @@ public:
 		return result;
 	}
 };
+
