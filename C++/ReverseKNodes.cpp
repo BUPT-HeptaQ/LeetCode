@@ -4,7 +4,7 @@ struct ListNode{
 	ListNode(int *x) :val(x), next(NULL) {}
 };
 
-// 1-b 逆置链表中间的几个节点
+// 逆置链表中间的几个节点
 class Solution {
 public:
 	ListNode* reverseBetween(ListNode* head, int m, int n) {
@@ -34,3 +34,4 @@ public:
 		return result;
 	}
 };
+
